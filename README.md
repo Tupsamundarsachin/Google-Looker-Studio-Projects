@@ -10,7 +10,7 @@ Project Overview
 # Clone the repository to your local machine:
 
 1) Copy code
-git clone https://github.com/Tupsamundarsachin/Googel-Looker-Studio-Projects.git
+git clone https://github.com/Tupsamundarsachin/Google-Looker-Studio-Projects/blob/main/README.md
 
 2) Log in to your Google Looker Studio account.
 
