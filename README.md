@@ -4,13 +4,13 @@ Welcome to the Google Looker Studio Projects repository! This repository contain
 
 Project Overview
 1) Google Ads:
-             This dashboard is very beautiful and easy to understang which provides the campaign data of google ads and also provides the insights into the CLICK Through Rate and Impressions, Conversion Rate & 
+             This dashboard is very beautiful and easy to understand which provides the campaign data of Google ads and also provides insights into the CLICK Through Rate and Impressions, Conversion Rate & 
              Cost, Cost per Click, Top  campaigns, etc 
 
 # Clone the repository to your local machine:
 
 1) Copy code
-git clone https://github.com/Tupsamundarsachin/Googel-looker-studio-projects.git
+git clone https://github.com/Tupsamundarsachin/Googel-Looker-Studio-Projects.git
 
 2) Log in to your Google Looker Studio account.
 
